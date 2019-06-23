@@ -26,7 +26,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Simple app to showcase microservices and communication using events/messages.
 
 ## Installation
 
